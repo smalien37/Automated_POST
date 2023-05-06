@@ -6,7 +6,7 @@
   <name>uploadPost</name>
   <description>This_is_used_to_upload_post</description>
   <dependencies>
-	<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+	
 	<dependency>
 	    <groupId>org.seleniumhq.selenium</groupId>
 	    <artifactId>selenium-java</artifactId>
